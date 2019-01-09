@@ -1,3 +1,9 @@
+---
+layout: page
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
+---
 # Describes the workflow
 
 Assume that the local repository is correctly set up to point to an upstream copy (origin) and has a local branch called master that tracks the remote master.
