@@ -2,6 +2,7 @@
 
 This is the index page.
 
+Here is a link [workflow](pages/basic-git-workflow.md)
 ## lists
 
 1. first
